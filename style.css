@@ -10,10 +10,27 @@
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
     background-color:rgb(0, 0, 0);
-    color: white;
+    color: rgb(255, 255, 255);
 }
+
+.two2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.two3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: rgb(0, 17, 255);
+}
+
 
 .con{
     width: 100%;
+    text-align: center;
+}
+
+.con2{
     text-align: center;
 }
